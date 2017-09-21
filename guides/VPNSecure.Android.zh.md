@@ -1,0 +1,2 @@
+<p>1.首先需要下载VPNSecure安卓应用：请到<a href="https://github.com/greatfire/cc" target="_blank">https://github.com/greatfire/cc</a>下载<a href="https://github.com/greatfire/cc/raw/master/z/clients/com.vpnsecure.pty.ltd.apk" target="_blank">com.vpnsecure.pty.ltd.apk</a></p>
+<p>2.Android版和Windows版界面相同，可参考Windows版进行操作</p>
